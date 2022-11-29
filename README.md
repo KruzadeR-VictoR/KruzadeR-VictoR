@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bijay</h1>
 <h3 align="center">I am a frontend developer. I love learning and creating new things.</h3>
-<img align="right" width="400" alt="coding gif" src="https://smartdatawebs.com/assets/img/web.gif" >
+<img align="right" width="270" alt="coding gif" src="https://smartdatawebs.com/assets/img/web.gif" >
 
 - 🌱 I’m currently learning **Typescript, Nextjs, Animations, Accessibility**
 
