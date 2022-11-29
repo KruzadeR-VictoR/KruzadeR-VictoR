@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**KruzadeR-VictoR/KruzadeR-VictoR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Bijay. I am a full stack developer. I love learning and creating new things. 
 
-Here are some ideas to get you started:
+I also enjoy playing video games and drawing in my free time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:hammer: Tools I use:
+HTML
+CSS / Sass
+Javascript
+React, Angular
+npm
+MaterialUi, Tailwind
+VSCode, Parcel, Netlify
+
+:seedling: Currently I'm learning:
+Typescript
+Framer Motion, GSAP, animations
+accessibility
+
+If you'd like to chat or collab with me, you can reach me via email or find me on Linkedin/Twitter.
+
+Something isn't right or you know how it could be better? Feel free to open up an issue or submit a pull request!
