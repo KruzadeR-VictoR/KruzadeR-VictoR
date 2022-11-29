@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Bijay. I am a full stack developer. I love learning and creating new things. 
+I'm Bijay. I am a frontend developer. I love learning and creating new things. 
 
 I also enjoy playing video games and drawing in my free time.
 
