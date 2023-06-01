@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bijay</h1>
-<h4 align="center">I am a Fullstack developer. I love learning and creating new things. With my experience in front-end development, i have a deep understanding of JavaScript, React, Next and related technologies, which helps me to create high-performance, scalable and SEO-friendly web apps.</h4>
+<h3 align="center">I am a Fullstack developer. I love learning and creating new things. With my experience in front-end development, i have a deep understanding of JavaScript, React, Next and related technologies, which helps me to create high-performance, scalable and SEO-friendly web apps.</h3>
 <img align="right" width="270" alt="coding gif" src="https://smartdatawebs.com/assets/img/web.gif" >
 
 - 🌱 I’m currently learning **Typescript, Nextjs, Animations, Accessibility**
